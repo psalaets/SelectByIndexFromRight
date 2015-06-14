@@ -13,7 +13,7 @@ Last|<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>1</kbd>
 3rd to last|<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>3</kbd>| See [Gotchas on OS X](#gotchas-on-os-x)
 4th to last|<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>4</kbd>| See [Gotchas on OS X](#gotchas-on-os-x)
 ...|...
-9th to last|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>9</kbd>
+9th to last|<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>9</kbd>
 
 ### Linux, Windows
 
@@ -27,3 +27,4 @@ Last|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>1</kbd>
 
 ## Gotchas on OS X
 
+<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>3</kbd> and <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>4</kbd> are OS X keyboard shortcuts for taking screenshots. Either disable those OS X shortcuts or avoid them.
