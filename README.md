@@ -27,4 +27,12 @@ Last|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>1</kbd>
 
 ## Gotchas on OS X
 
-<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>3</kbd> and <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>4</kbd> are OS X keyboard shortcuts for taking screenshots. Either disable those OS X shortcuts or avoid them.
+<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>3</kbd> and <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>4</kbd> are OS X keyboard shortcuts for taking screenshots.
+
+To change or disable them go to:
+
+`System Preferences | Keyboard | Shortcuts | Screen Shots`
+
+Or you can change SelectByIndexFromRight's shortcuts:
+
+TBD
