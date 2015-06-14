@@ -29,10 +29,20 @@ Last|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>1</kbd>
 
 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>3</kbd> and <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>4</kbd> are OS X keyboard shortcuts for taking screenshots.
 
-To change or disable them go to:
+### Workaround 1: Change this package's shortcuts
+
+In Sublime go to:
+
+`Preferences | Package Settings | SelectByIndexFromRight | Key Bindings - Default`
+
+and copy only the key command objects (everything in there except the outer array). Then go to
+
+`Preferences | Package Settings | SelectByIndexFromRight | Key Bindings - User`
+
+and paste into the array. Then edit as necessary.
+
+### Workaround 2: Change OS X screenshot shortcuts
+
+In OS X go to:
 
 `System Preferences | Keyboard | Shortcuts | Screen Shots`
-
-Or you can change SelectByIndexFromRight's shortcuts:
-
-TBD
