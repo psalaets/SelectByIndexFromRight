@@ -17,11 +17,15 @@ Last|<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>1</kbd>
 
 ### Linux, Windows
 
-Tab | Shortcut
-----|---------
-Last|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>1</kbd>
-2nd to last|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>2</kbd>
-3rd to last|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>3</kbd>
+> Apparently alt+shift+1 through alt+shift+5 are already taken by default in Sublime. Avoid this package unless you want to resolve the key command conflicts :(
+
+Tab | Shortcut | Note
+----|----------|-----
+Last|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>1</kbd>| See comment above
+2nd to last|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>2</kbd>| See comment above
+3rd to last|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>3</kbd>| See comment above
+4th to last|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>4</kbd>| See comment above
+5th to last|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>5</kbd>| See comment above
 ...|...
 9th to last|<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>9</kbd>
 
